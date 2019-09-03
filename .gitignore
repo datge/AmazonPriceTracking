@@ -1,0 +1,6 @@
+src/__pycache__/
+.mypy_cache
+ll_env
+item_attuale.pickle
+.vs
+.vscode
